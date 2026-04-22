@@ -8,8 +8,10 @@ A aplicação combina lógica de programação, interatividade e design temátic
 
 ## 📸 Preview
 
+### 🖥 Desktop
 <img width="1536" height="864" alt="po" src="https://github.com/user-attachments/assets/9dafa1b8-fe6e-4bfb-bf3c-cee63145b8c3" />
-
+### 📱 Mobile
+<img width="626" height="771" alt="po2" src="https://github.com/user-attachments/assets/4902c6bf-e14a-4f53-8b7e-7935dfa4d95b" />
 
 ---
 
